@@ -1,0 +1,2 @@
+# PocketTrip
+Our product PocketTrip is designed to provide travel planning for travellers to improve their travel experiences. We get input from our customers to enter their desired travel place, number of people travelling, dates and their daily budget. We then distribute weight percentage to different categories: Hotel, Living Cost and Leisure(Museums and tourism sites). We recommend combos of hotels, means and places to visit according to different budgets.
